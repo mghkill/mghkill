@@ -25,8 +25,8 @@
       <a href=https://maissaude.vercel.app>   |  -----  |      Deploy</a>
     </li>
     <li>
-      <img class="emoji" alt="heart" src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png" width="20" height="20">
-      <a href=https://github.com/Kenzie-Academy-Brasil-Developers/entrega-torre-de-hanoi-sprint-5-mghkill>Health Control</a>
+      <img class="emoji" alt="vietnam" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fb-1f1f3.png" width="20" height="20">
+      <a href=https://github.com/Kenzie-Academy-Brasil-Developers/entrega-torre-de-hanoi-sprint-5-mghkill>Torre de Hanoi</a>
       <a href=https://kenzie-academy-brasil-developers.github.io/entrega-torre-de-hanoi-sprint-5-mghkill/>   |  -----  |      Deploy</a>
     </li>
     
