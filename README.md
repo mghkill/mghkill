@@ -38,7 +38,7 @@
   <ul>
     <li>
       <img class="emoji" alt="hamburger" src="https://github.githubassets.com/images/icons/emoji/unicode/1f354.png" width="20" height="20">
-      <a href=https://github.com/Kenzie-Academy-Brasil-Developers/react-entrega-s1-hamburgueria-da-kenzie-mghkill>Hamburgueria</a>
+      <a href=https://github.com/Kenzie-Academy-Brasil-Developers/react-entrega-s1-hamburgueria-da-kenzie-mghkill> Hamburger </a>
       <a href=https://hamb-mghkill.vercel.app/>    |----   |    Deploy</a>
     </li>
     <li>
