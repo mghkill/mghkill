@@ -4,7 +4,7 @@
   <li> 🔭 I’m currently working on development web full stack</li>
   <li> 🌱 I’m currently learning new open source software such as Node for backend</li>
   <li> 👯 I’m looking to collaborate on front or back development</li>
-  <li> 📫 How to reach me: E-mail: operadorfilipe@gmail.com - +55 18 99761-8783</li>
+  <li> 📫 How to reach me: operadorfilipe@gmail.com - +55 18 99761-8783 or 77 98139-6433</li>
   <li> ⚡ Fun fact: I like music and animals</li>
   <br>
   <li> <img class="emoji" alt="briefcase" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png" width="20" height="20"> My codes with group</li>
