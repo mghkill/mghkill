@@ -1,4 +1,4 @@
-## 👋 Hello! Welcome to my Github profile.
+## 👋 Hi , I am Filipe Gusmão
 ### My name is Filipe Melo and my nickname is "mgh Filipe"!
 <ul>
   <li> 🔭 I’m currently working on development web full stack</li>
