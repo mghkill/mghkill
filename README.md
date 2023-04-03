@@ -4,10 +4,10 @@
   <li> 🔭 I’m currently working on development web full stack</li>
   <li> 🌱 I’m currently learning new open source software such as Node for backend</li>
   <li> 👯 I’m looking to collaborate on front or back development</li>
-  <li> 📫 How to reach me: operadorfilipe@gmail.com - +55 18 99761-8783 or 77 98139-6433</li>
+  <li> 📫 How to reach me: filipemelo.spacejob@gmail.com - +55 18 99761-8783</li>
 
   <br>
-  <li>CV: https://drive.google.com/file/d/1tFUYVt9_TvoJVGqNsCP7u3c5zgHBWR71/view</li>
+  <li>CV: https://drive.google.com/file/d/1nKKcOYtyCBtIPxCxEL0SXBD5TdEC32-M/view</li>
   <br>
   <li> <img class="emoji" alt="briefcase" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png" width="20" height="20"> My codes with group</li>
   <ul>
