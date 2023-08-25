@@ -7,7 +7,7 @@
   <li> 📫 How to reach me: filipemelo.spacejob@gmail.com - +55 18 99761-8783</li>
 
   <br>
-  <li>CV: https://drive.google.com/file/d/1dF5DAAaw_ibIMCXwHoBAneWEu1gskKKb/view</li>
+  <li>CV: https://drive.google.com/file/d/165tpfnWeR4o0tH3tYQh_l7UM23uAy6nU/view</li>
   <li>+55 (11) 9 1855-4569</li>
   <br>
   <li> <img class="emoji" alt="briefcase" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png" width="20" height="20"> My codes with group</li>
