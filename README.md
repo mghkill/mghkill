@@ -12,25 +12,35 @@
   <br>
   <li> <img class="emoji" alt="briefcase" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png" width="20" height="20"> My codes with group</li>
   <ul>
-    <li>
-      <img class="emoji" alt="hash" src="https://github.githubassets.com/images/icons/emoji/unicode/0023-20e3.png" width="20" height="20">
-      <a href=https://github.com/Kenzie-Academy-Brasil-Developers/entrega-lig-4-sprint-5-rodhardt>Lig - 4</a>
-      <a href=https://lnkd.in/dwMitmna>   |  ------  |    Deploy</a>
+     <li>
+      <a href=https://lnkd.in/dwMitmna>   |  ------  |    Click Link Lig - 4 Deploy</a>
     </li>
-    <li>
+     <li>
+      <img class="emoji" alt="hash" src="https://github.githubassets.com/images/icons/emoji/unicode/0023-20e3.png" width="20" height="20">
+      <a href=https://github.com/Kenzie-Academy-Brasil-Developers/entrega-lig-4-sprint-5-rodhardt>Github Page - Lig - 4</a>
+   </li>
+      <li>
+       <a href=https://habits-team-project.vercel.app>       |  ------   |  Click Link  Habits Team  Deploy</a>
+    </li>
+     <li>
       <img class="emoji" alt="lotus_position_woman" src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d8-2640.png" width="20" height="20">
-      <a href=https://github.com/martachmlima/habits_team_project>Habits Team</a>
-      <a href=https://habits-team-project.vercel.app>       |  ------   |    Deploy</a>
+      <a href=https://github.com/martachmlima/habits_team_project>Github Page - Habits Team</a>
+    </li>
+     <li>
+      <a href=https://maissaude.vercel.app>   |  -----  |   Click Link  Health Control Deploy</a>
     </li>
     <li>
       <img class="emoji" alt="heart" src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png" width="20" height="20">
-      <a href=https://github.com/martachmlima/meu_paciente>Health Control</a>
-      <a href=https://maissaude.vercel.app>   |  -----  |      Deploy</a>
+      <a href=https://github.com/martachmlima/meu_paciente>Github Page - Health Control</a>
     </li>
     <li>
       <img class="emoji" alt="vietnam" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fb-1f1f3.png" width="20" height="20">
-      <a href=https://github.com/Kenzie-Academy-Brasil-Developers/entrega-torre-de-hanoi-sprint-5-mghkill>Torre de Hanoi</a>
-      <a href=https://kenzie-academy-brasil-developers.github.io/entrega-torre-de-hanoi-sprint-5-mghkill/>   |  -----  |      Deploy</a>
+    </li>
+      <li>
+    <a href=https://kenzie-academy-brasil-developers.github.io/entrega-torre-de-hanoi-sprint-5-mghkill/>   |  -----  |  Click Link  Torre de Hanoi    Deploy</a>
+    </li>
+    <li>
+       <a href=https://github.com/Kenzie-Academy-Brasil-Developers/entrega-torre-de-hanoi-sprint-5-mghkill> Github Page - Torre de Hanoi</a>
     </li>
     
   </ul>
@@ -45,9 +55,14 @@
   
   <ul>
     <li>
+       <a href=https://hamb-mghkill.vercel.app/>    |----   |    Deploy</a>
+       </li>
+    <li>
       <img class="emoji" alt="hamburger" src="https://github.githubassets.com/images/icons/emoji/unicode/1f354.png" width="20" height="20">
       <a href=https://github.com/Kenzie-Academy-Brasil-Developers/react-entrega-s1-hamburgueria-da-kenzie-mghkill> Hamburger </a>
-      <a href=https://hamb-mghkill.vercel.app/>    |----   |    Deploy</a>
+    </li>
+    <li>
+     <a href=https://react-entrega-s2-kenzie-hub-mghkill-mghkill.vercel.app/>       |----   |      Deploy</a>
     </li>
     <li>
       <img class="emoji" alt="coin" src="https://github.githubassets.com/images/icons/emoji/unicode/1fa99.png" width="20" height="20">
