@@ -4,7 +4,7 @@
   <li> 🔭 I’m currently working on development web full stack</li>
   <li> 🌱 I’m currently learning new open source software such as Node for backend</li>
   <li> 👯 I’m looking to collaborate on front or back development</li>
-  <li> 📫 How to reach me: filipemelo.spacejob@gmail.com - +55 (77) 9 8102-1633</li>
+  <li> 📫 How to reach me: operadorfilipe@gmail.com - +55 (77) 9 8102-1633</li>
 
   <br>
    
