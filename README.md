@@ -1,91 +1,167 @@
-## 👋 Hi , I am Filipe Gusmão
-### My name is Filipe Melo and my nickname is "mgh Filipe"!
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/Memoji.png" width="200" align="right" style="margin-left: 20px;">
+<b>Hey there, welcome!</b></br>
+</p>
+
+ - I'm Filipe Melo, a passionate Front End developer from <b>Vitória da Conquista - Bahia, Brazil</b>.</br>
+ - 💡 I love exploring new trends and diving into emerging technologies.</br>
+ - 🌱 Currently focused on improving my back-end skills with Node.js (Express) and Python (Flask).</br>
+ - ❤️ Tech & Coding enthusiast striving for continuous improvement.
+
+
+## 📈 &nbsp;Some Code Stats ##
+
+<div width="100%">
+  <span align="left">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=mghkill&show_icons=true&hide_border=true&bg_color=3D3D3D&title_color=00E6FE&icon_color=00E6FE&text_color=FFFFFF&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats"/>
+  </span>
+  <span align="right">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mghkill&layout=compact&hide_border=true&bg_color=3D3D3D&title_color=00E6FE&icon_color=00E6FE&text_color=FFFFFF"/>
+  </span>
+</div>
+ 
+
+## 👨🏻‍💻 &nbsp;Things I code with ##
+<div style="display: inline_block"><br>
+  <img align="center" height="30" width="40" alt="react" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="fill: #61DAFB;">
+  <img align="center" height="30" width="40" alt="typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="fill: #3178C6;">
+  <img align="center" height="30" width="40" alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="fill: #F7DF1E;">
+  <img align="center" height="30" width="40" alt="redux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" style="fill: #764ABC;">
+  <img align="center" height="30" width="40" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="fill: #3776AB;">
+  <img align="center" height="30" width="40" alt="nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="fill: #339933;">
+  <img align="center" height="30" width="40" alt="express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="fill: #000000;">
+  <img align="center" height="30" width="40" alt="flask" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" style="fill: #000000;">
+  <img align="center" height="30" width="40" alt="postgresql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="fill: #336791;">
+  <img align="center" height="30" width="40" alt="sqlalchemy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" style="fill: #F8DC3D;">
+  <img align="center" height="30" width="40" alt="mongodb" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="fill: #47A248;">
+
+  <!-- <img align="center" height="30" width="40" alt="nextjs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">    --> 
+  <img align="center" height="30" width="40" alt="graphql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="fill: #E10098;">    
+<!--   <img align="center" height="30" width="40" alt="storybook" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg">   -->  
+  <img align="center" height="30" width="40" alt="materialui" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" style="fill: #0081CB;">
+  <img align="center" height="30" width="40" alt="html5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="fill: #E34F26;">
+  <img align="center" height="30" width="40" alt="css3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="fill: #1572B6;">
+  <!-- <img align="center" height="30" width="40" alt="sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"> -->
+  <img align="center" height="30" width="40" alt="bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" style="fill: #563D7C;">
+  
+  <!-- <img align="center" height="30" width="40" alt="wordpress" src="https://cdn.worldvectorlogo.com/logos/wordpress-icon-1.svg"> -->
+  <img align="center" height="30" width="40" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="fill: #F05032;">
+</div>
+
+<br>
+ 
+ 
 <ul>
-  <li> 🔭 I’m currently working on development web full stack</li>
-  <li> 🌱 I’m currently learning new open source software such as Node for backend</li>
-  <li> 👯 I’m looking to collaborate on front or back development</li>
-  <li> 📫 How to reach me: operadorfilipe@gmail.com - +55 (77) 9 8102-1633</li>
+
+  <li>
+    <img class="emoji" alt="hamburger" src="https://github.githubassets.com/images/icons/emoji/unicode/1f354.png" width="20" height="20">
+    <span>Burger Phop</span>
+    <ul>
+      <li>
+        <a target="_blank" href="https://hamb-mghkill.vercel.app/">Click Link - Deploy</a>
+      </li>
+      <li>
+        <a href="https://github.com/Kenzie-Academy-Brasil-Developers/react-entrega-s1-hamburgueria-da-kenzie-mghkill">Github Page</a>
+      </li>
+    </ul>
+  </li>
+  
+  <li>
+    <img class="emoji" alt="coin" src="https://github.githubassets.com/images/icons/emoji/unicode/1fa99.png" width="20" height="20">
+    <span>Hub with register and login</span>
+    <ul>
+      <li>
+        <a target="_blank" href="https://react-entrega-s2-kenzie-hub-mghkill-mghkill.vercel.app/">Link register and login Deploy</a>
+      </li>
+      <li>
+        <a href="https://github.com/Kenzie-Academy-Brasil-Developers/react-entrega-s2-kenzie-hub-mghkill">Github Page</a>
+      </li>
+    </ul>
+  </li>
+  
+<!--   <li>
+    <img class="emoji" alt="vietnam" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fb-1f1f3.png" width="20" height="20">
+    <span>Kenzie shop</span>
+    <ul>
+      <li>
+        <a target="_blank" href="https://react-entrega-s3-kenzieshop-mghkill.vercel.app/">Link Kenzie shop Deploy</a>
+      </li>
+      <li>
+        <a href="https://github.com/Kenzie-Academy-Brasil-Developers/react-entrega-s3-kenzishop-com-context-api-mghkill">Github Page</a>
+      </li>
+    </ul>
+  </li> -->
+</ul>
+
+ <ul>
+
+   <li>
+    <img class="emoji" alt="heart" src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png" width="20" height="20">
+    <span>Health Control</span>
+    <ul>
+      <li>
+        <a href="https://maissaude.vercel.app" target="_blank">Click Link - Deploy</a>
+      </li>
+      <li>
+        <a href="https://github.com/martachmlima/meu_paciente" target="_blank">Github Page</a>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <img class="emoji" alt="lotus_position_woman" src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d8-2640.png" width="20" height="20">
+    <span>Habits Team</span>
+    <ul>
+      <li>
+        <a href="https://habits-team-project.vercel.app" target="_blank">Click Link - Deploy</a>
+      </li>
+      <li>
+        <a href="https://github.com/martachmlima/habits_team_project" target="_blank">Github Page</a>
+      </li>
+    </ul>
+  </li>
+  
+  
+
+  <li>
+    <img class="emoji" alt="hash" src="https://github.githubassets.com/images/icons/emoji/unicode/0023-20e3.png" width="20" height="20">
+    <span>Lig - 4</span>
+    <ul>
+      <li>
+        <a href="https://lnkd.in/dwMitmna" target="_blank">Click Link - Deploy</a>
+      </li>
+      <li>
+        <a href="https://github.com/Kenzie-Academy-Brasil-Developers/entrega-lig-4-sprint-5-rodhardt" target="_blank">Github Page</a>
+      </li>
+    </ul>
+  </li> 
+
+  <li>
+    <img class="emoji" alt="vietnam" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fb-1f1f3.png" width="20" height="20">
+    <span>Torre de Hanoi</span>
+    <ul>
+      <li>
+        <a href="https://kenzie-academy-brasil-developers.github.io/entrega-torre-de-hanoi-sprint-5-mghkill/" target="_blank">Click Link - Deploy</a>
+      </li>
+      <li>
+        <a href="https://github.com/Kenzie-Academy-Brasil-Developers/entrega-torre-de-hanoi-sprint-5-mghkill" target="_blank">Github Page</a>
+      </li>
+    </ul>
+  </li>
+
+</ul>
+
+## 🌎 &nbsp;Where to find me ##
+<div style="display: inline_block"><br> 
+  <a href="" target="_blank"><img src="https://i.imgur.com/MymA43I.png"></a>
+  <a href="https://www.linkedin.com/in/filipegusmaomelo/ " target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href="https://www.facebook.com/filipe.gusmaodemelo/" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%230177B5?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+  <a href = "mailto:operadorfilipe@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <p> 📫 operadorfilipe@gmail.com </p>
+<p>📞 (WhatsApp) +55 (77) 9 8102-1633</p>
+
 
   <br>
    
-  <li>+55 (77) 9 8102-1633</li>
-  <br>
-  <li> <img class="emoji" alt="briefcase" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png" width="20" height="20"> My codes with group</li>
-  <ul>
-     <li>
-        <img class="emoji" alt="hash" src="https://github.githubassets.com/images/icons/emoji/unicode/0023-20e3.png" width="20" height="20">
-      <a href=https://lnkd.in/dwMitmna>     Click Link Lig - 4 Deploy</a>
-    </li>
-     <li>
-      <a target="_blank" href=https://github.com/Kenzie-Academy-Brasil-Developers/entrega-lig-4-sprint-5-rodhardt>Github Page - Lig - 4</a>
-   </li>
-      <li> 
-        <img class="emoji" alt="lotus_position_woman" src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d8-2640.png" width="20" height="20">
-       <a target="_blank" href=https://habits-team-project.vercel.app>      Click Link  Habits Team  Deploy</a>
-    </li>
-     <li>
-      <a target="_blank" href=https://github.com/martachmlima/habits_team_project>Github Page - Habits Team</a>
-    </li>
-     <li>
-       <img class="emoji" alt="heart" src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png" width="20" height="20">
-      <a target="_blank" href=https://maissaude.vercel.app>      Click Link  Health Control Deploy</a>
-    </li>
-    <li>
-      <a target="_blank" href=https://github.com/martachmlima/meu_paciente>Github Page - Health Control</a>
-    </li>
-      <li>
-       <img class="emoji" alt="vietnam" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fb-1f1f3.png" width="20" height="20">
-    <a target="_blank" href=https://kenzie-academy-brasil-developers.github.io/entrega-torre-de-hanoi-sprint-5-mghkill/>     Click Link  Torre de Hanoi    Deploy</a>
-    </li>
-    <li>
-       <a target="_blank" href=https://github.com/Kenzie-Academy-Brasil-Developers/entrega-torre-de-hanoi-sprint-5-mghkill> Github Page - Torre de Hanoi</a>
-    </li>
-    
-  </ul>
-  
-  <br>
-  
-  
-  
-  
-  <li> 
-    <img class="emoji" alt="cowboy_hat_face" src="https://github.githubassets.com/images/icons/emoji/unicode/1f920.png" width="20" height="20"> My codes</li>
-  
-  <ul>
-    <li>
-      <img class="emoji" alt="hamburger" src="https://github.githubassets.com/images/icons/emoji/unicode/1f354.png" width="20" height="20">
-       <a target="_blank" href=https://hamb-mghkill.vercel.app/> Link Burger Phop Deploy</a>
-       </li>
-    <li>
-      <a href=https://github.com/Kenzie-Academy-Brasil-Developers/react-entrega-s1-hamburgueria-da-kenzie-mghkill> Burger Phop </a>
-    </li>
-    <li>
-      <img class="emoji" alt="coin" src="https://github.githubassets.com/images/icons/emoji/unicode/1fa99.png" width="20" height="20">
-     <a href=https://react-entrega-s2-kenzie-hub-mghkill-mghkill.vercel.app/>    Link   register and login   Deploy</a>
-    </li>
-    <li>
-      <a href=https://github.com/Kenzie-Academy-Brasil-Developers/react-entrega-s2-kenzie-hub-mghkill>Hub with register and login</a>
-    </li>
-    <li>
-       <img class="emoji" alt="vietnam" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fb-1f1f3.png" width="20" height="20">
-       <a href=https://react-entrega-s3-kenzieshop-mghkill.vercel.app/>  Link Kenzie shop  Deploy</a>
-    </li>
-      <a href=https://github.com/Kenzie-Academy-Brasil-Developers/react-entrega-s3-kenzishop-com-context-api-mghkill>Kenzie shop</a>
-    </li>
-  
-  
-    
-    
-    
-</ul> 
-
-<br>
-<br>
-
-
-<br>
-
-<div>
-<a href="https://www.facebook.com/filipe.gusmaodemelo/" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%230177B5?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/filipegusmaomelo/ " target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+
+ 
