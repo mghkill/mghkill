@@ -41,7 +41,8 @@
   <img align="center" height="30" width="40" alt="css3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="fill: #1572B6;">
   <!-- <img align="center" height="30" width="40" alt="sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"> -->
   <img align="center" height="30" width="40" alt="bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" style="fill: #563D7C;">
-  
+  <img align="center" height="30" width="40" alt="jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" style="fill: #C21325;">
+
   <!-- <img align="center" height="30" width="40" alt="wordpress" src="https://cdn.worldvectorlogo.com/logos/wordpress-icon-1.svg"> -->
   <img align="center" height="30" width="40" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="fill: #F05032;">
 </div>
