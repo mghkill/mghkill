@@ -59,9 +59,9 @@
       <li>
         <a target="_blank" href="https://hamb-mghkill.vercel.app/">Click Link - Deploy</a>
       </li>
-      <li>
+     <!--  <li>
         <a href="https://github.com/Kenzie-Academy-Brasil-Developers/react-entrega-s1-hamburgueria-da-kenzie-mghkill">Github Page</a>
-      </li>
+      </li> -->
     </ul>
   </li>
   
@@ -72,9 +72,9 @@
       <li>
         <a target="_blank" href="https://react-entrega-s2-kenzie-hub-mghkill-mghkill.vercel.app/">Link register and login Deploy</a>
       </li>
-      <li>
+    <!--   <li>
         <a href="https://github.com/Kenzie-Academy-Brasil-Developers/react-entrega-s2-kenzie-hub-mghkill">Github Page</a>
-      </li>
+      </li> -->
     </ul>
   </li>
   
@@ -101,9 +101,9 @@
       <li>
         <a href="https://maissaude.vercel.app" target="_blank">Click Link - Deploy</a>
       </li>
-      <li>
+    <!--   <li>
         <a href="https://github.com/martachmlima/meu_paciente" target="_blank">Github Page</a>
-      </li>
+      </li> -->
     </ul>
   </li>
   <li>
@@ -113,9 +113,9 @@
       <li>
         <a href="https://habits-team-project.vercel.app" target="_blank">Click Link - Deploy</a>
       </li>
-      <li>
+   <!--    <li>
         <a href="https://github.com/martachmlima/habits_team_project" target="_blank">Github Page</a>
-      </li>
+      </li> -->
     </ul>
   </li>
   
@@ -128,9 +128,9 @@
       <li>
         <a href="https://kenzie-academy-brasil-developers.github.io/entrega-lig-4-sprint-5-rodhardt" target="_blank">Click Link - Deploy</a>
       </li>
-      <li>
+     <!--  <li>
         <a href="https://github.com/Kenzie-Academy-Brasil-Developers/entrega-lig-4-sprint-5-rodhardt" target="_blank">Github Page</a>
-      </li>
+      </li> -->
     </ul>
   </li> 
 
@@ -141,9 +141,9 @@
       <li>
         <a href="https://kenzie-academy-brasil-developers.github.io/entrega-torre-de-hanoi-sprint-5-mghkill/" target="_blank">Click Link - Deploy</a>
       </li>
-      <li>
+     <!--  <li>
         <a href="https://github.com/Kenzie-Academy-Brasil-Developers/entrega-torre-de-hanoi-sprint-5-mghkill" target="_blank">Github Page</a>
-      </li>
+      </li> -->
     </ul>
   </li>
 
