@@ -16,6 +16,76 @@
  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mghkill&show_icons=true&hide_border=true&bg_color=0D1117&title_color=007FFF&icon_color=007FFF&text_color=FFFFFF&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats&hide_title=false&line_height=27&card_width=500&border_radius=10&border_color=007FFF&locale=en&cache_seconds=1800) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mghkill&layout=compact&hide_border=true&bg_color=0D1117&title_color=007FFF&icon_color=007FFF&text_color=FFFFFF&card_width=500&border_radius=10&border_color=007FFF&locale=en&cache_seconds=1800)
 
+<!--
+<ul>
+
+  <li>
+    <img class="emoji" alt="hamburger" src="https://github.githubassets.com/images/icons/emoji/unicode/1f354.png" width="20" height="20">
+    <span>Burger Phop</span>
+    <ul>
+      <li>
+        <a target="_blank" href="https://hamb-mghkill.vercel.app/">Click Link - Deploy</a>
+      </li>
+    </ul>
+  </li>
+  
+  <li>
+    <img class="emoji" alt="coin" src="https://github.githubassets.com/images/icons/emoji/unicode/1fa99.png" width="20" height="20">
+    <span>Hub with register and login</span>
+    <ul>
+      <li>
+        <a target="_blank" href="https://react-entrega-s2-kenzie-hub-mghkill-mghkill.vercel.app/">Click Link - Deploy</a>
+      </li>
+    </ul>
+  </li>
+
+</ul>
+
+ <ul>
+
+   <li>
+    <img class="emoji" alt="heart" src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png" width="20" height="20">
+    <span>Health Control</span>
+    <ul>
+      <li>
+        <a href="https://maissaude.vercel.app" target="_blank">Click Link - Deploy</a>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <img class="emoji" alt="lotus_position_woman" src="https://github.githubassets.com/images/icons/emoji/unicode/1f9d8-2640.png" width="20" height="20">
+    <span>Habits Team</span>
+    <ul>
+      <li>
+        <a href="https://habits-team-project.vercel.app" target="_blank">Click Link - Deploy</a>
+      </li>
+    </ul>
+  </li>
+  
+  
+
+  <li>
+    <img class="emoji" alt="hash" src="https://github.githubassets.com/images/icons/emoji/unicode/0023-20e3.png" width="20" height="20">
+    <span>DEV BALL Z</span>
+    <ul>
+      <li>
+        <a href="https://kenzie-academy-brasil-developers.github.io/entrega-lig-4-sprint-5-rodhardt" target="_blank">Click Link - Deploy</a>
+      </li>
+    </ul>
+  </li> 
+
+  <li>
+    <img class="emoji" alt="vietnam" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fb-1f1f3.png" width="20" height="20">
+    <span>Torre de Hanoi</span>
+    <ul>
+      <li>
+        <a href="https://kenzie-academy-brasil-developers.github.io/entrega-torre-de-hanoi-sprint-5-mghkill/" target="_blank">Click Link - Deploy</a>
+      </li>
+    </ul>
+  </li>
+
+</ul>
+-->
 
 
 
