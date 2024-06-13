@@ -70,7 +70,7 @@
     <span>Hub with register and login</span>
     <ul>
       <li>
-        <a target="_blank" href="https://react-entrega-s2-kenzie-hub-mghkill-mghkill.vercel.app/">Link register and login Deploy</a>
+        <a target="_blank" href="https://react-entrega-s2-kenzie-hub-mghkill-mghkill.vercel.app/">Click Link - Deplo</a>
       </li>
     <!--   <li>
         <a href="https://github.com/Kenzie-Academy-Brasil-Developers/react-entrega-s2-kenzie-hub-mghkill">Github Page</a>
