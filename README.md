@@ -11,15 +11,13 @@
 
 ## 📈 &nbsp;Some Code Stats ##
 
-<div width="100%">
-  <span align="left">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=mghkill&show_icons=true&hide_border=true&bg_color=3D3D3D&title_color=00E6FE&icon_color=00E6FE&text_color=FFFFFF&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats"/>
-  </span>
-  <span align="right">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mghkill&layout=compact&hide_border=true&bg_color=3D3D3D&title_color=00E6FE&icon_color=00E6FE&text_color=FFFFFF"/>
-  </span>
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mghkill&layout=compact&hide_border=true&bg_color=0D1117&title_color=007FFF&icon_color=007FFF&text_color=FFFFFF&card_width=500&border_radius=10&border_color=007FFF&locale=en&cache_seconds=1800)
+
  
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mghkill&show_icons=true&hide_border=true&bg_color=0D1117&title_color=007FFF&icon_color=007FFF&text_color=FFFFFF&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats&hide_title=false&line_height=27&card_width=500&border_radius=10&border_color=007FFF&locale=en&cache_seconds=1800)
+
+
+
 
 ## 👨🏻‍💻 &nbsp;Things I code with ##
 <div style="display: inline_block"><br>
