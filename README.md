@@ -122,10 +122,10 @@
 
   <li>
     <img class="emoji" alt="hash" src="https://github.githubassets.com/images/icons/emoji/unicode/0023-20e3.png" width="20" height="20">
-    <span>Lig - 4</span>
+    <span>DEV BALL Z</span>
     <ul>
       <li>
-        <a href="https://lnkd.in/dwMitmna" target="_blank">Click Link - Deploy</a>
+        <a href="https://kenzie-academy-brasil-developers.github.io/entrega-lig-4-sprint-5-rodhardt" target="_blank">Click Link - Deploy</a>
       </li>
       <li>
         <a href="https://github.com/Kenzie-Academy-Brasil-Developers/entrega-lig-4-sprint-5-rodhardt" target="_blank">Github Page</a>
