@@ -1,7 +1,4 @@
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/Memoji.png" width="200" align="right" style="margin-left: 20px;">
-<b>Hey there, welcome!</b></br>
-</p>
+
 
  - I'm Filipe Melo, a passionate Front End developer from <b>Vitória da Conquista - Bahia, Brazil</b>.</br>
  - 💡 I love exploring new trends and diving into emerging technologies.</br>
