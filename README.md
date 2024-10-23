@@ -5,6 +5,7 @@
  - 🌱 Currently focused on improving my back-end skills with Node.js (Express) and Python (Flask).</br>
  - ❤️ Tech & Coding enthusiast striving for continuous improvement.
 
+CV - https://drive.google.com/file/d/1Au0xV2WlYob6X6rLO2MvGksK_QokQWlj/view?usp=sharing
 
 ## 📈 &nbsp;Some Code Stats ##
 
