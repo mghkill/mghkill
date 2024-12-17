@@ -1,6 +1,6 @@
 
 
- - I'm Filipe Melo, a passionate Front End developer from <b>Vitória da Conquista - Bahia, Brazil</b>.</br>
+ - I'm Filipe Melo, a passionate full stack developer from <b>Vitória da Conquista - Brazil</b>.</br>
  - 💡 I love exploring new trends and diving into emerging technologies.</br>
  - 🌱 Currently focused on improving my back-end skills with Node.js (Express) and Python (Flask).</br>
  - ❤️ Tech & Coding enthusiast striving for continuous improvement.
