@@ -7,6 +7,8 @@
 
 Portfólio - https://techbyfilipe.netlify.app/
 
+https://beacons.ai/filipegusmao
+
 CV - https://drive.google.com/file/d/11RVqlvQHkNAE4YqBhjiNFN1u7IdfMH44/view
 
 ## 📈 &nbsp;Some Code Stats ##
