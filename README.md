@@ -7,7 +7,7 @@
 
 Portfólio - https://techbyfilipe.netlify.app/
 
-CV - https://drive.google.com/file/d/1Au0xV2WlYob6X6rLO2MvGksK_QokQWlj/view?usp=sharing
+CV - https://drive.google.com/file/d/11RVqlvQHkNAE4YqBhjiNFN1u7IdfMH44/view
 
 ## 📈 &nbsp;Some Code Stats ##
 
