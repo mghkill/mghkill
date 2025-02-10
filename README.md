@@ -9,7 +9,7 @@ Portfólio - https://techbyfilipe.netlify.app/
 
 https://beacons.ai/filipegusmao
 
-CV - https://drive.google.com/file/d/1UtGA-PTixVp4KUKKNCbngVKpBac-zpi3/view
+CV - https://docs.google.com/document/d/1YMuuICALe5UuYNpFKl89--qBMuGlGjzw/edit?usp=sharing&ouid=101098162285655100290&rtpof=true&sd=true
 
 ## 📈 &nbsp;Some Code Stats ##
 
@@ -130,7 +130,7 @@ CV - https://drive.google.com/file/d/1UtGA-PTixVp4KUKKNCbngVKpBac-zpi3/view
   <a href="https://www.facebook.com/filipe.gusmaodemelo/" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%230177B5?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href = "mailto:operadorfilipe@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <p> 📫 operadorfilipe@gmail.com </p>
-<p>📞 (WhatsApp) +55 (77) 9 8102-1633</p>
+<p>📞 (WhatsApp) +55 (77) 9 9846-7861</p>
 
 
   <br>
