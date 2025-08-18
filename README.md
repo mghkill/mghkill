@@ -1,4 +1,5 @@
 
+![snake animation](https://github.com/mgkill/mgkill/blob/output/github-contribution-grid-snake.svg)
 
  - I'm Filipe Melo, a passionate full stack developer from <b>Vitória da Conquista - Brazil</b>.</br>
  - 💡 I love exploring new trends and diving into emerging technologies.</br>
