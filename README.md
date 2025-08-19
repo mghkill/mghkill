@@ -1,6 +1,7 @@
 # Hi, I'm Filipe Melo 👋
 
 [![committers.top badge](https://user-badge.committers.top/brazil_private/mghkill.svg)](https://user-badge.committers.top/brazil_private/mghkill)
+[![Codewars](https://www.codewars.com/users/filipegusmao/badges/large)](https://www.codewars.com/users/filipegusmao)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake-dark.svg">
@@ -14,19 +15,41 @@
 - 💡 Tech enthusiast who loves exploring new trends and emerging technologies
 - 🌱 Currently improving my back-end skills with Node.js (Express) and Python (Flask)
 - ❤️ Dedicated to continuous learning and improvement in tech & coding
+- ⚔️ Codewars 5 kyu (Top 15% of users)
 
 ## 🔗 Links
 
 - [Portfolio](https://techbyfilipe.netlify.app/)
 - [Beacons](https://beacons.ai/filipegusmao)
 - [Resume](https://docs.google.com/document/d/1YMuuICALe5UuYNpFKl89--qBMuGlGjzw/edit?usp=sharing&ouid=101098162285655100290&rtpof=true&sd=true)
+- [Codewars Profile](https://www.codewars.com/users/filipegusmao)
 
-## 📈 GitHub Stats
+## 📊 Coding Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mghkill&show_icons=true&hide_border=true&bg_color=0D1117&title_color=007FFF&icon_color=007FFF&text_color=FFFFFF&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats&hide_title=false&line_height=27&card_width=500&border_radius=10&border_color=007FFF&locale=en&cache_seconds=1800)
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  <div>
+    <h3>GitHub Stats</h3>
+    <img src="https://github-readme-stats.vercel.app/api?username=mghkill&show_icons=true&hide_border=true&bg_color=0D1117&title_color=007FFF&icon_color=007FFF&text_color=FFFFFF&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats&hide_title=false&line_height=27&card_width=500&border_radius=10&border_color=007FFF&locale=en&cache_seconds=1800">
+  </div>
+  <div>
+    <h3>Codewars Stats</h3>
+    <div style="background: #0D1117; padding: 15px; border-radius: 10px; border: 1px solid #007FFF;">
+      <p><strong>Rank:</strong> <span style="color: yellow;">5 kyu</span> (Score: 361)</p>
+      <p><strong>Honor:</strong> 398</p>
+      <p><strong>Challenges Completed:</strong> 118</p>
+      <p><strong>Languages:</strong></p>
+      <ul>
+        <li>JavaScript: <span style="color: yellow;">5 kyu</span></li>
+        <li>Python: <span style="color: white;">7 kyu</span></li>
+        <li>Java: <span style="color: white;">8 kyu</span></li>
+      </ul>
+    </div>
+  </div>
+</div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mghkill&layout=compact&hide_border=true&bg_color=0D1117&title_color=007FFF&icon_color=007FFF&text_color=FFFFFF&card_width=500&border_radius=10&border_color=007FFF&locale=en&cache_seconds=1800)
 
+ 
 ## 🛠️ Tech Stack
 
 <table>
