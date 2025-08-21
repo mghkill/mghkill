@@ -19,9 +19,9 @@
 
 ## 🔗 Links
 
-- [Portfolio](https://techbyfilipe.netlify.app/)
+<!-- - [Portfolio](https://techbyfilipe.netlify.app/)
 - [Beacons](https://beacons.ai/filipegusmao)
-- [Resume](https://docs.google.com/document/d/1YMuuICALe5UuYNpFKl89--qBMuGlGjzw/edit?usp=sharing&ouid=101098162285655100290&rtpof=true&sd=true)
+- [Resume](https://docs.google.com/document/d/1YMuuICALe5UuYNpFKl89--qBMuGlGjzw/edit?usp=sharing&ouid=101098162285655100290&rtpof=true&sd=true) -->
 - [Codewars Profile](https://www.codewars.com/users/filipegusmao)
 
 ## 📊 Coding Stats
