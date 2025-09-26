@@ -8,6 +8,15 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
 </picture>
+<h4>
+  ## 🔗 Links
+
+<!-- - [Portfolio](https://techbyfilipe.netlify.app/)
+- [Beacons](https://beacons.ai/filipegusmao)
+- [Resume](https://docs.google.com/document/d/1YMuuICALe5UuYNpFKl89--qBMuGlGjzw/edit?usp=sharing&ouid=101098162285655100290&rtpof=true&sd=true) -->
+- [Beacons Profile](https://beacons.ai/filipegusmao)
+- [Codewars Profile](https://www.codewars.com/users/filipegusmao)
+</h4>
 
 ## 🚀 About Me
 
@@ -17,12 +26,7 @@
 - ❤️ Dedicated to continuous learning and improvement in tech & coding
 - ⚔️ Codewars 5 kyu (Top 15% of users)
 
-## 🔗 Links
 
-<!-- - [Portfolio](https://techbyfilipe.netlify.app/)
-- [Beacons](https://beacons.ai/filipegusmao)
-- [Resume](https://docs.google.com/document/d/1YMuuICALe5UuYNpFKl89--qBMuGlGjzw/edit?usp=sharing&ouid=101098162285655100290&rtpof=true&sd=true) -->
-- [Codewars Profile](https://www.codewars.com/users/filipegusmao)
 
 ## 📊 Coding Stats
 
