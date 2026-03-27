@@ -104,5 +104,5 @@
   <a href="mailto:operadorfilipe@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-📫 **Email:** operadorfilipe@gmail.com  
-📞 **WhatsApp:** +55 (77) 9 8156-5454
+📫 **Email:** operadorfilipe@gmail.com 
+📞 **WhatsApp:** +55 (77)99864-3355
