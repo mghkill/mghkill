@@ -171,7 +171,7 @@ My goal is to evolve from simply **writing code** to consistently making better 
 
 </div>
 
-📫 **Email:** [operadorfilipe@gmail.com](mailto:operadorfilipe@gmail.com)
+📫 **Email:** [gusmao.tecnologia@gmail.com](mailto:gusmao.tecnologia@gmail.com)
 
 ---
 
